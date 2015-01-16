@@ -1,0 +1,39 @@
+div{
+    border-style: none;
+    border-width: 5px;
+    border-color:#843534;
+    padding: 30px;
+}
+.container{
+    border-color:#c12e2a;
+}
+.row{
+    border-color:#d58512;
+}
+.list-group-item{
+    border: 0;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+body {
+    background-color: cadetblue;
+    background-image: url('http://www.srautogroup.com/wp-content/uploads/2012/03/AVENTADOR_SR_1.jpg')
+}
+.jumbotron {
+    text-align: center;
+}
+img{
+    width:300px;
+    height:300px;
+    border-style:white;
+}
+body{
+    font-family: fantasy;
+}
+body {
+    color: #ff0;
+}
+#current-image{
+    border:10px solid black;
+}
+
